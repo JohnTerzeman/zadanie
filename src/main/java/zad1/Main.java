@@ -27,6 +27,7 @@ public class  Main {
             num++;
         }
         while (num < 10);
+
     }
 
 
